@@ -1,0 +1,21 @@
+/* Enlazamos tipografía de Google Fonts */
+body{
+
+}
+header{
+    width: 1100px;
+    height: 104px;
+    margin: auto; /* Centrar en horizontal un contenedor */
+    background-color: #ABABAB;
+}
+main{
+    width: 1100px;
+    height: 656px;
+    margin: auto; /* Centrar en horizontal un contenedor */
+}
+footer{
+    width: 1100px;
+    height: 140px;
+    margin: auto; /* Centrar en horizontal un contenedor */
+    background-color: #262626;
+}

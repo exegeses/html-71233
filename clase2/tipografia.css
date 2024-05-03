@@ -1,0 +1,14 @@
+/* Enlazamos la tipografía desde el sitio de Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color: #261129;
+    color:  hsl(293, 41%, 80%);
+    font-family: "Montserrat", sans-serif;
+}
+
+h1{
+    color: hsl(293, 41%, 95%);
+    font-weight: 300;
+    font-size: 20px;
+}
