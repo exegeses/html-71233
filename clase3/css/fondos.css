@@ -1,0 +1,12 @@
+body{
+    background-color: #bffcf9;
+}
+main{
+    background-color: #fff;
+    width: 768px;
+    margin: auto;
+}
+section{
+    height: 500px;
+    background-image: url(../imgs/bg-small.jpg);
+}

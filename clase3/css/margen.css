@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color: hsl(270, 50%, 14%);
+    color: hsl(270, 80%, 66%);
+    font-family: Montserrat, serif;
+    font-size: 24px;
+
+    width: 768px;
+    margin: auto;
+}
+
+section{
+    height: 360px;
+    background-color: hsl(270, 50%, 30%);
+}
+article{
+    height: 96px;
+    width: 96px;
+    background-color: hsl(270, 50%, 70%);
+    margin: 8px;
+}
+#lima{
+    background-color: hsl(90, 70%, 70%);
+    margin-left: 24px;
+}
+#verde{
+    background-color: hsl(130, 70%, 70%);
+    width: 120px;
+    margin: auto;
+}
